@@ -1,9 +1,11 @@
-## Hi there 👋
+![Rowena Hutchins](https://github.com/user-attachments/assets/59053a3b-c3e6-4ccd-81c7-41ccc4abda04)
 
 <!--
 **rowena-hutchins/rowena-hutchins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
